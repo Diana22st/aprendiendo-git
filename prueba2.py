@@ -1,1 +1,1 @@
-paises["mexico","peru",]
+paises=["mexico","peru","jamaica"]
